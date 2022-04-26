@@ -5,4 +5,4 @@ The accompanying Ipython notebook details as a report that also contains the cod
 
 The _App ipython file has been used to create a binder hosted application which can be accessed here:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/krishnans14/feline_classifier/HEAD?urlpath=voila%2Frender%2FFeline_Classifier_App.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marharyta-aleksandrova/feline_classifier/HEAD?urlpath=voila%2Frender%2FFeline_Classifier_App.ipynb)
